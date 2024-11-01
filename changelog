@@ -1,0 +1,118 @@
+Version: 0.1.12.1
+
+  * test WP Version 5.3.2
+
+Version: 0.1.12
+================
+
+	* add some string replace in parser
+
+Version: 0.1.11
+================
+
+	* Add uninstaller (delete options in database wp_options)
+
+Version: 0.1.10
+================
+
+	* Fix HTML Parser
+
+Version: 0.1.9
+================
+
+	* new Option Debug mode
+	* new Admin Design
+	* Fix Count Items Problem,
+
+Version: 0.1.8.11
+================
+
+	* new Option Show PubDate
+
+Version: 0.1.8.10
+================
+
+	* ABSPATH is not defined die and post 'You are not allowed to call this page directly.'
+
+Version: 0.1.8.9
+================
+
+	* add languages: fr, es, it, en, de 
+
+Version: 0.1.8.8
+================
+
+	* fixed: save language option  
+
+Version: 0.1.8.7
+================
+
+	* some fixes 
+
+Version: 0.1.8.6
+================
+
+	* fix opt_val3 in Options
+  * Use Language Option for "Read more"
+
+Version: 0.1.8.5
+================
+
+	* fix in line 62 in index.php a typo ;-)
+
+Version: 0.1.8.4
+================
+
+	* activate compact option (no description)
+
+Version: 0.1.8.3
+================
+
+	* add CSS ID xxternalrss for pages and blogposts
+
+Version: 0.1.8.2
+================
+
+	* add CSS ID xxternalrss
+
+Version: 0.1.8
+==============
+
+	* only Joomla Feed Url with comma (Workaround).
+
+Version: 0.1.7
+==============
+
+	* add parsing Google-Reader Feeds
+	* activate optional params (extend,compact,google)
+	* please read readme.txt for more information. 
+
+Version: 0.1.6
+==============
+
+	* Add meta Tags (Version, Build, Date, ...) to Wordpress header.
+	* Update Version
+
+Version: 0.1.5
+==============
+
+	* no stable version, testing only
+
+Version: 0.1.4
+==============
+
+	* encoding
+
+Version: 0.1.4
+==============
+
+	* fix parse error.
+
+Version: 0.1.3
+==============
+
+	* NEW: add sidebar widget
+	* add first steps for 0.1.4 (compact|extend)-Tags
+	* add changelog
+	* running tests in Wordpress 2.6.3 and 2.7 Beta 3
+
